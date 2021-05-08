@@ -1,2 +1,2 @@
 # spin
-python2 spin.py www.siteismi.com
+python2 spin.py wwwsiteismi.com
